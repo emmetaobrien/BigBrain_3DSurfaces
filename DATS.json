@@ -121,7 +121,15 @@
 					"value": "logo.png"
 				}
 			]
+		},
+		{
+			"category": "derivedFrom",
+			"values": [
+				{
+					"value": "https://github.com/conpdatasets/bigbrain-datalad/tree/792702f93455fcd565e76026a81e2e71fb46d444"
+				}
+			]
 		}
-    ]
+   ]
 }
 
