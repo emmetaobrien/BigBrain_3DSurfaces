@@ -126,7 +126,7 @@
 			"category": "derivedFrom",
 			"values": [
 				{
-					"parent_dataset_id": "BigBrain_datalad",
+					"parent_dataset_id": "bigbrain-datalad",
 					"value": "https://github.com/conpdatasets/bigbrain-datalad/tree/792702f93455fcd565e76026a81e2e71fb46d444"
 				}
 			]
