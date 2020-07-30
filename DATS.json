@@ -62,7 +62,6 @@
     "privacy": "Open Access",
     "isAbout": [
         {
-            "@type": "BiologicalEntity",
             "name": "adult human"
         }
     ],
