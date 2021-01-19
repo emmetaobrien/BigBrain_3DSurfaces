@@ -86,6 +86,14 @@
                 }
             ]
         },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        },
 		{
 			"category": "contact",
 			"values": [
