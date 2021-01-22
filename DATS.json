@@ -22,8 +22,8 @@
     "distributions": [
 	        {
 			"formats": [
-				"MINC",
-				"NIfTI",
+				"STL",
+				"GIfTI",
 				"OBJ"
             ],
 			"size" : 1.8,
