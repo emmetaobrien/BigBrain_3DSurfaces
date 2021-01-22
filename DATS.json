@@ -22,11 +22,13 @@
     "distributions": [
 	        {
 			"formats": [
-				"MINC"
-            		],
-			"size" : 984,
+				"MINC",
+				"NIfTI",
+				"OBJ"
+            ],
+			"size" : 1.8,
 		        "unit" : {
-            			"value": "MB"
+            			"value": "GB"
 		        },
 			"access": {
 				"landingPage": "https://bigbrainproject.org",
@@ -106,7 +108,7 @@
 			"category": "files",
 			"values": [
 				{
-					"value": "46"
+					"value": "257"
 				}
 			]
 		},
