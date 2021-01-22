@@ -8,26 +8,27 @@
 	],
     "creators": [
         {
-            "@type": "Organization",
             "name": "BigBrain project"
         }
     ],
     "types": [
         {
 		"information":
-		{
+			{
 	            "value": "histology"
-		}
+			}
         }
     ],
     "distributions": [
 	        {
 			"formats": [
-				"MINC"
-            		],
-			"size" : 984,
+				"STL",
+				"GIfTI",
+				"OBJ"
+            ],
+			"size" : 1.8,
 		        "unit" : {
-            			"value": "MB"
+            			"value": "GB"
 		        },
 			"access": {
 				"landingPage": "https://bigbrainproject.org",
@@ -63,23 +64,20 @@
     "privacy": "Open Access",
     "isAbout": [
         {
-            "@type": "BiologicalEntity",
             "name": "adult human"
         }
     ],
     "licenses": [
         {
-            "@type": "License",
             "name": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License"
         }
     ],
     "primaryPublications": [
         {
-            "@type": "Publication",
             "title": "BigBrain: an ultrahigh-resolution 3D human brain model",
             "publicationVenue": "Science",
             "authorsList": "Amunts, Katrin, et al."
-	}
+		}
     ],
     "extraProperties": [
         {
@@ -90,7 +88,15 @@
                 }
             ]
         },
-	{
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        },
+		{
 			"category": "contact",
 			"values": [
 				{
@@ -102,7 +108,7 @@
 			"category": "files",
 			"values": [
 				{
-					"value": "46"
+					"value": "257"
 				}
 			]
 		},
@@ -111,6 +117,14 @@
 			"values": [
 				{
 					"value": "CONP"
+				}
+			]
+		},
+		{
+			"category": "origin_consortium",
+			"values": [
+				{
+					"value": "BigBrain project"
 				}
 			]
 		},
@@ -127,6 +141,14 @@
 			"values": [
 				{
 					"value": "https://github.com/conpdatasets/bigbrain-datalad/tree/792702f93455fcd565e76026a81e2e71fb46d444"
+				}
+			]
+		},
+		{
+			"category": "parent_dataset_id",
+			"values": [
+				{
+					"value": "bigbrain-datalad"
 				}
 			]
 		}

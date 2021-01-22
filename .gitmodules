@@ -1,3 +1,3 @@
 [submodule "bigbrain-datalad"]
 	path = bigbrain-datalad
-	url = https://github.com/conpdatasets/bigbrain-datalad/
+	url = https://github.com/conpdatasets/bigbrain-datalad.git
