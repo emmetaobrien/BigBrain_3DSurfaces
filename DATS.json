@@ -17,7 +17,8 @@
         {
 		"information":
 			{
-	            "value": "histology"
+	            "value": "histology",
+				"valueIRI": "http://uri.interlex.org/ilx_0739399"
 			}
         }
     ],
